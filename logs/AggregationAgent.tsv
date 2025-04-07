@@ -1,5 +1,12 @@
  	Task	Responder	sender_entity	sender_name	recipient	block	tool_type	tool	content
- 	AggregationAgent	Entity.USER	Entity.USER	AggregationAgent		None			["Why is DeepSeek cheap?", ["What factors contribute to DeepSeek's cost-effectiv...ss model focuses on cost reduction through innovative technology integration."]]
+ 	AggregationAgent	Entity.USER	Entity.USER	AggregationAgent		None			('Why is deepseek cheap?', ['1. What are the primary cost components involved in..., function_call=None, tool_messages=[], all_tool_messages=[], attachment=None)])
  	AggregationAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
  	AggregationAgent	Entity.AGENT	Entity.USER			None			
-*	AggregationAgent	Entity.LLM	Entity.LLM			None	FUNC	generate_report_tool	FUNC: { "name": "generate_report_tool", "arguments": { "original_query": "Why is...ugh innovative technology integration." ], "request": "generate_report_tool" } }
+*	AggregationAgent	Entity.LLM	Entity.LLM			None	FUNC	generate_report_tool	FUNC: { "name": "generate_report_tool", "arguments": { "original_query": "Why is...lained-Everything-you-need-to-know\n\n" ], "request": "generate_report_tool" } }
+*	AggregationAgent	Entity.AGENT	Entity.AGENT	AggregationAgent		None			# Research Report: Why is DeepSeek Cheap? ## Introduction DeepSeek has emerged a...as a leader in affordable AI solutions, offering significant value to its users.
+ 	Task	Responder	sender_entity	sender_name	recipient	block	tool_type	tool	content
+ 	CriticAgent	Entity.USER	Entity.USER	CriticAgent		None			["Why is deepseek cheap?", "# Research Report: Why is DeepSeek Cheap?\n\n## Intr...ic technologies or business strategies that Deepseek employs to reduce costs?"]]
+ 	CriticAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	CriticAgent	Entity.AGENT	Entity.USER			None			
+*	CriticAgent	Entity.LLM	Entity.LLM			None	FUNC	evaluate_report_quality_tool	FUNC: { "name": "evaluate_report_quality_tool", "arguments": { "original_query":...pseek employs to reduce costs?" ], "request": "evaluate_report_quality_tool" } }
+*	CriticAgent	Entity.AGENT	Entity.AGENT	CriticAgent		None			end

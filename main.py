@@ -171,6 +171,20 @@ async def research_pipeline(original_query: str, max_rounds: int = 3):
         f"**Research Complete ✅**\n\n**Final Aggregated Report for:** {original_query}\n\n{final_report}"
     )
 
+    # ------------------ STORE FINAL REPORT ------------------
+    from langroid.vector_store.qdrantdb import QdrantDB, QdrantDBConfig
+    from langroid.agent.chat_document import ChatDocMetaData, ChatDocument
+    from langroid.mytypes import Entity
+
+    qcfg = QdrantDBConfig(collection_name="reports", cloud=True, replace_collection=False)
+    db = QdrantDB(qcfg)
+    doc = ChatDocument(
+        content=final_report,
+        metadata=ChatDocMetaData(source="", sender=Entity.USER)
+    )
+    db.add_documents([doc])
+    print("[INFO] Final report stored in Qdrant 'reports' collection.")
+
 
 @cl.on_chat_start
 async def on_chat_start():

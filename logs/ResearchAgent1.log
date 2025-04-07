@@ -1,40 +1,37 @@
- [1m([0mResearchAgent1[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mResearchAgent1[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0mHow can quantum computing specifically contribute to 
-enhancing the security and scalability of a global financial ecosystem?[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mResearchAgent1[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mResearchAgent1[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1;36m1[0m. What are the primary cost components involved in the 
+production and operation of Deepseek?[1m[[0m[35m/[0m[95mblue[0m[1m][0m
  [1m([0mResearchAgent1[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
  [1m([0mResearchAgent1[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
 *[1m([0mResearchAgent1[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m   [1;35mFUNC[0m[1m([0mrelevant_extracts[1m)[0m [1m[[0mgreen[1m][0mFUNC: [1m{[0m
   [32m"name"[0m: [32m"relevant_extracts"[0m,
   [32m"arguments"[0m: [1m{[0m
-    [32m"query"[0m: [32m"quantum computing contribution to security and scalability in financial systems"[0m,
+    [32m"query"[0m: [32m"primary cost components in the production and operation of Deepseek"[0m,
     [32m"request"[0m: [32m"relevant_extracts"[0m
   [1m}[0m
 [1m}[0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
-*[1m([0mResearchAgent1[1m)[0m [1m[[0mwhite[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mred[1m][0mEntity.AGENT[1m[[0m[35m/[0m[95mred[0m[1m][0m[1m([0mResearchAgent1[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mred[1m][0m=== Web Search Extracts ===
+*[1m([0mResearchAgent1[1m)[0m [1m[[0mwhite[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mred[1m][0mEntity.AGENT[1m[[0m[35m/[0m[95mred[0m[1m][0m[1m([0mResearchAgent1[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mred[1m][0m=== Relevant Extracts ===
 [1m[[0m[1;36m1[0m[1m][0m CONTENT:
-More broadly, capital allocation across a range of corporate finance activities can be improved by insights into the size and materiality of risks, while payments and transfers can be protected 
-through better encryption.
+According to the reports, DeepSeek's cost to train its latest R1 model was just **$[1;36m5.58[0m million**.
 
- This appears to be a sensible strategy as long as quantum computers remain subcritical for practical applications and there is no dominant design for scaling quantum capabilities.
-URL: [4;94mhttps://www.mckinsey.com/industries/financial-services/our-insights/how-quantum-computing-could-change-financial-services[0m
+ This figure is significantly lower than the hundreds of millions [1m([0mor billions[1m)[0m American tech giants spent creating alternative LLMs.
+
+ The other noticeable difference in costs is the pricing for each model. [33m...[0m While DeepSeek is currently free to use and ChatGPT does offer a free plan, API access comes with a cost.
+
+ ModelContext LengthMax CoT TokensMax Output Tokens1M Tokens Input Price [1m([0mCache Hit[1m)[0m1M Tokens Input Price [1m([0mCache Miss[1m)[0m1M Tokens Output Price [33m...[0m deepseek-chat | 64K | - | 8K | $[1;36m0.07[0m | $[1;36m0.27[0m | $[1;36m1.10[0m | 
+[33m...[0m deepseek-reasoner | 64K | 32K | 8K | $[1;36m0.14[0m | $[1;36m0.55[0m | $[1;36m2.19[0m | [33m...[0m gpt-4o | 128K | - | - | $[1;36m1.25[0m | $[1;36m2.50[0m | $[1;36m10.00[0m | [33m...[0m DeepSeek's pricing is significantly lower across the board, with input and 
+output costs a fraction of what OpenAI charges for GPT-4o.
+URL: [4;94mhttps://explodingtopics.com/blog/deepseek-ai[0m
 
 [1m[[0m[1;36m2[0m[1m][0m CONTENT:
-Many financial industry participants rely on computing power to improve decision making and serve customers better. [33m...[0m Over the next few years, quantum computing is likely to supercharge these 
-activities. 
-
- Still, quantum computing increasingly appears to be a game changer in tackling complex or intractable problems, particularly in the optimization area. [33m...[0m It is only a matter of time before quantum 
-solutions enter the mainstream, which means the window for getting up to speed and gaining competitive advantage will not be open for long.
-URL: [4;94mhttps://www.mckinsey.com/industries/financial-services/our-insights/how-quantum-computing-could-change-financial-services[0m
+The full amount of funding and the valuation of DeepSeek have not been publicly disclosed.
+URL: [4;94mhttps://www.techtarget.com/whatis/feature/DeepSeek-explained-Everything-you-need-to-know[0m
 
 [1m[[0m[1;36m3[0m[1m][0m CONTENT:
-What gives quantum computing this enormous advantage? [33m...[0m The solution space of a quantum computer is orders of magnitude larger than traditional computers—even immensely powerful ones. [33m...[0m That’s 
-because doubling the power of a classical computer requires about double the number of transistors working on a problem. [33m...[0m The power of a quantum computer can be approximately doubled each time only
-one qubit is added.
-
- Quantum computing’s specific use cases for financial services can be classified into three main categories: targeting and prediction, trading optimization, and risk profiling. [33m...[0m Because 
-combinatorial optimization problems in trading and portfolio management scale exponentially, quantum computers have the potential to find faster, more cost-effective and better-tailored solutions than
-classical machines. [33m...[0m Because combinatorial optimization problems in trading and portfolio management scale exponentially, quantum computers have the potential to find faster, more cost-effective 
-and better-tailored solutions than classical machines. [33m...[0m Risk analysis calculations are hard because it is computationally challenging to analyze numerous scenarios. [33m...[0m Quantum computers have the 
-potential to sample data differently, providing a quadratic speed-up for these types of simulations.
-URL: [4;94mhttps://www.ibm.com/thought-leadership/institute-business-value/en-us/report/exploring-quantum-financial[0m
+# DeepSeek explained: Everything you need to know
+[33m...[0m
+## DeepSeek data exposed
+[33m...[0m
+### Read more of our coverage on DeepSeek:
+URL: [4;94mhttps://www.techtarget.com/whatis/feature/DeepSeek-explained-Everything-you-need-to-know[0m
 
 [1m[[0m[35m/[0m[95mred[0m[1m][0m

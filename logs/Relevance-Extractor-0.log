@@ -1,20 +1,30 @@
- [1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0mComparison
-[33m...[0m
-## People Also Ask:
+ [1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m# Research Report: Why is DeepSeek Cheap?
 
-**[1;36m1[0m. What’s better, DeepSeek or ChatGPT?**
-DeepSeek offers a more cost-effective alternative to ChatGPT, especially for high-volume users. While both models perform well for tasks like coding, writing, and problem-solving, DeepSeek stands out 
-with its free access and significantly lower API costs. Additionally, DeepSeek’s open-source nature provides flexibility and privacy, allowing users to customize and self-host the model, which ChatGPT
-does not offer.
-**[1;36m2[0m. What is so special about DeepSeek?**
-DeepSeek’s key strengths lie in its affordability, open-source flexibility, and scalable performance. Unlike ChatGPT, which has costly APIs and usage limitations, DeepSeek offers free access to its 
-core functionality and lower pricing for larger applications. It also allows users to deploy the model on their infrastructure, ensuring full control over data and operations. These advantages make it
-a compelling choice for students, startups, and high-volume API users.
-**[1;36m3[0m. How is DeepSeek more efficient?**
-DeepSeek is more efficient due to its significantly lower cost per token, allowing businesses and developers to scale without high expenses. For example, generating the same amount of content with 
-DeepSeek costs a fraction of the price compared to ChatGPT. Furthermore, DeepSeek’s open-source model provides users with greater control and flexibility over their AI applications, reducing 
-dependency on third-party servers and improving overall efficiency.
-**[1;36m4[0m. Did De[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+## Introduction
+DeepSeek has emerged as a cost-effective alternative in the landscape of large language models [1m([0mLLMs[1m)[0m. This report explores the reasons behind its affordability by examining the primary cost 
+components, comparing its pricing with competitors, and identifying specific technologies or business strategies that contribute to its low costs.
+
+## Primary Cost Components
+DeepSeek's cost structure is notably efficient, with the training of its latest R1 model costing approximately **$[1;36m5.58[0m million**. This is significantly lower than the hundreds of millions or even 
+billions spent by major American tech companies on similar models. The cost efficiency is reflected in the pricing of DeepSeek's services, which are substantially lower than those of its competitors. 
+For instance, the input and output costs for DeepSeek's models are a fraction of what OpenAI charges for its GPT-4o model. [1m[[0mSource[1m][0m[1m([0m[4;94mhttps://explodingtopics.com/blog/deepseek-ai[0m[4;94m)[0m
+
+## Pricing Comparison
+DeepSeek's pricing strategy is highly competitive. While DeepSeek offers free usage options, API access incurs costs. However, these costs are minimal compared to those of similar services. For 
+example, DeepSeek's input price for its chat model is $[1;36m0.07[0m per million tokens [1m([0mcache hit[1m)[0m, whereas OpenAI's GPT-4o charges $[1;36m1.25[0m for the same service. This stark difference highlights DeepSeek's 
+affordability across various usage scenarios. [1m[[0mSource[1m][0m[1m([0m[4;94mhttps://explodingtopics.com/blog/deepseek-ai[0m[4;94m)[0m
+
+## Technologies and Business Strategies
+DeepSeek employs several strategies to maintain low costs. The company focuses on developing open-source LLMs, allowing for iterative improvements and variations without the high costs associated with
+proprietary technologies. Additionally, DeepSeek offers multiple services, including a web interface, mobile application, and API access, which are designed to be cost-effective and accessible. 
+[1m[[0mSource[1m][0m[1m([0m[4;94mhttps://www.techtarget.com/whatis/feature/DeepSeek-explained-Everything-you-need-to-know[0m[4;94m)[0m
+
+## Conclusion
+DeepSeek's affordability can be attributed to its efficient cost structure, competitive pricing strategy, and strategic use of open-source technologies. These factors collectively enable DeepSeek to 
+offer its services at a fraction of the cost of its competitors, making it an attractive option for users seeking cost-effective LLM solutions. The company's focus on open-source development and 
+iterative improvements further enhances its ability to maintain low operational costs while providing high-quality services.
+
+By leveraging these strategies, DeepSeek has positioned itself as a leader in affordable AI solutions, offering significant value to its users.[1m[[0m[35m/[0m[95mblue[0m[1m][0m
  [1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
  [1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
 *[1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m   [1;35mFUNC[0m[1m([0mextract_segments[1m)[0m [1m[[0mgreen[1m][0mFUNC: [1m{[0m
