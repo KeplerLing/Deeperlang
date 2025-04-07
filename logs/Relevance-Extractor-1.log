@@ -1,19 +1,20 @@
- [1m([0mRelevance-Extractor-[1;36m1[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m1[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m# DeepSeek explained: Everything you need to 
-know
+ [1m([0mRelevance-Extractor-[1;36m1[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m1[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m## DeepSeek AI history
 [33m...[0m
-## DeepSeek data exposed
-[33m...[0m
-### Read more of our coverage on DeepSeek:
+## The reception of the GenAI chat
 
-DeepSeek under the microscope: a sanity check
+Within just a few days of DeepSeek’s launch, users who tested it pointed out several visible benefits:
 
-DeepSeek-R1 more readily generates dangerous content than other large language models
+People noticed lower costs of model fine-tuning compared to GPT. The API pricing for a million input tokens is $[1;36m0.14[0m for DeepSeek and $[1;36m2.50[0m for ChatGPT-4o.
+-
+Advanced capabilities [1m([0mMulti-Head Latent Attention[1m)[0m for generating content, coding, and solving problems.
+-
+Open-source nature allows companies to fine-tune models, which is a great asset for many industries that need the processing of complex technical tasks.
+-
+Users also noticed some problems with privacy and censorship that were widely commented on across the web.
 
-AI jailbreaking techniques prove highly effective against DeepSeek
-
-Wiz reveals DeepSeek database exposed API keys, chat history
-
-New Relic extends observability to DeepSeek
+However, DeepSeek has done something many expected from American tech giants—made their AI model freely available for worldwide use, especially taking into consideration the announcement of publishing
+[1;36m5[0m code repositories for full transparency. While OpenAI allows only some of the models to be fine-tuned through their API, DeepSeek-R1 is completely open-source, giving users full access to adapt it 
+as needed.
 
 [1m[[0m[35m/[0m[95mblue[0m[1m][0m
  [1m([0mRelevance-Extractor-[1;36m1[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
@@ -21,13 +22,8 @@ New Relic extends observability to DeepSeek
 *[1m([0mRelevance-Extractor-[1;36m1[0m[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m   [1;35mFUNC[0m[1m([0mextract_segments[1m)[0m [1m[[0mgreen[1m][0mFUNC: [1m{[0m
   [32m"name"[0m: [32m"extract_segments"[0m,
   [32m"arguments"[0m: [1m{[0m
-    [32m"segment_list"[0m: [32m"1"[0m,
+    [32m"segment_list"[0m: [32m""[0m,
     [32m"request"[0m: [32m"extract_segments"[0m
   [1m}[0m
 [1m}[0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
-*[1m([0mRelevance-Extractor-[1;36m1[0m[1m)[0m [1m[[0mwhite[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mred[1m][0mEntity.AGENT[1m[[0m[35m/[0m[95mred[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m1[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mred[1m][0mDONE  # DeepSeek explained: Everything you 
-need to know
-[33m...[0m
-## DeepSeek data exposed
-[33m...[0m
-### Read more of our coverage on DeepSeek:[1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mRelevance-Extractor-[1;36m1[0m[1m)[0m [1m[[0mwhite[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mred[1m][0mEntity.AGENT[1m[[0m[35m/[0m[95mred[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m1[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mred[1m][0mDONE DO-NOT-KNOW[1m[[0m[35m/[0m[95mred[0m[1m][0m

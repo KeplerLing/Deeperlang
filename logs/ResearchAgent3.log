@@ -1,34 +1,20 @@
- [1m([0mResearchAgent3[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mResearchAgent3[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1;36m3[0m. Are there any specific technologies or business strategies
-that Deepseek employs to reduce costs?[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mResearchAgent3[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mResearchAgent3[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1;36m3[0m. How might the use of AI-generated synthetic proteins in 
+agriculture influence economic factors such as cost, market dynamics, and employment in the agricultural sector?[1m[[0m[35m/[0m[95mblue[0m[1m][0m
  [1m([0mResearchAgent3[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
  [1m([0mResearchAgent3[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
 *[1m([0mResearchAgent3[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m   [1;35mFUNC[0m[1m([0mrelevant_extracts[1m)[0m [1m[[0mgreen[1m][0mFUNC: [1m{[0m
   [32m"name"[0m: [32m"relevant_extracts"[0m,
   [32m"arguments"[0m: [1m{[0m
-    [32m"query"[0m: [32m"technologies or business strategies Deepseek uses to reduce costs"[0m,
+    [32m"query"[0m: [32m"economic impact of AI-generated synthetic proteins in agriculture"[0m,
     [32m"request"[0m: [32m"relevant_extracts"[0m
   [1m}[0m
 [1m}[0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
 *[1m([0mResearchAgent3[1m)[0m [1m[[0mwhite[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mred[1m][0mEntity.AGENT[1m[[0m[35m/[0m[95mred[0m[1m][0m[1m([0mResearchAgent3[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mred[1m][0m=== Relevant Extracts ===
 [1m[[0m[1;36m1[0m[1m][0m CONTENT:
-[33m...[0m
-### Want to Spy on Your Competition?
-
- Explore competitors’ website traffic stats, discover growth points, and expand your market share.
-URL: [4;94mhttps://explodingtopics.com/blog/deepseek-ai[0m
-
-[1m[[0m[1;36m2[0m[1m][0m CONTENT:
-# DeepSeek explained: Everything you need to know
-[33m...[0m
-## DeepSeek data exposed
-[33m...[0m
-### Read more of our coverage on DeepSeek:
-URL: [4;94mhttps://www.techtarget.com/whatis/feature/DeepSeek-explained-Everything-you-need-to-know[0m
-
-[1m[[0m[1;36m3[0m[1m][0m CONTENT:
-DeepSeek focuses on developing open source LLMs. [33m...[0m The company has iterated multiple times on its core LLM and has built out several different variations. 
-
- The company provides multiple services for its models, including a web interface, mobile application and API access.
-URL: [4;94mhttps://www.techtarget.com/whatis/feature/DeepSeek-explained-Everything-you-need-to-know[0m
+In this short perspective, we examine risks and opportunities related to more widespread adoption of language models in food production systems. [33m...[0m While LLMs can potentially enhance agricultural 
+efficiency, drive innovation, and inform better policies, challenges like agricultural misinformation, collection of vast amounts of farmer data, and threats to agricultural jobs are important 
+concerns. [33m...[0m The rapid evolution of the LLM landscape underscores the need for agricultural policymakers to think carefully about frameworks and guidelines that ensure the responsible use of LLMs in 
+food production before these technologies become so ingrained that policy intervention becomes challenging.
+URL: [4;94mhttps://arxiv.org/abs/2403.15475[0m
 
 [1m[[0m[35m/[0m[95mred[0m[1m][0m

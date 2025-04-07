@@ -1,16 +1,28 @@
- [1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m# DeepSeek explained: Everything you need to 
-know
-[33m...[0m
-## What is DeepSeek?
+ [1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m# The Rise of AI-Generated Singers
 
-DeepSeek is an AI development firm based in Hangzhou, China. The company was founded by Liang Wenfeng, a graduate of Zhejiang University, in May [1;36m2023[0m. Wenfeng also co-founded High-Flyer, a China-based
-quantitative hedge fund that owns DeepSeek. Currently, DeepSeek operates as an independent AI research lab under the umbrella of High-Flyer. The full amount of funding and the valuation of DeepSeek 
-have not been publicly disclosed.
+## A case of Stefanie Sun and implications for the music industry
 
-DeepSeek focuses on developing open source LLMs. The company's first model was released in November [1;36m2023[0m. The company has iterated multiple times on its core LLM and has built out several different 
-variations. However, it wasn't until January [1;36m2025[0m after the release of its R1 reasoning model that the company became globally famous.
+The emergence of artificial intelligence [1m([0mAI[1m)[0m technology has sparked a surge of interest in AI-generated singers and their impact on the music industry. This article examines the recent trend 
+surrounding Singaporean pop singer Stefanie Sun and the AI clones of her voice that have gained popularity on Chinese social media platforms. I explore the implications of AI-generated singers, 
+including copyright concerns, fan reactions, and the need for regulatory frameworks to address this evolving landscape.
 
-The company provides multiple services for its models, including a web interface, mobile application and API access.
+## Stefanie Sun’s Popularity and the AI Phenomenon
+
+Stefanie Sun, also known as Sun Yanzi, is a renowned pop singer with a substantial fan base in mainland China and Hong Kong. Despite not releasing new music for six years, her popularity has reached 
+new heights with the emergence of AI-generated accounts mimicking her voice and breathing sounds. These AI accounts, under the name AI-Sun Yanzi, have garnered significant attention and amassed large 
+numbers of listeners. They have even covered well-known songs from other artists, such as Jay Chou and Nan Quan Mama.
+
+While the AI clones have attracted attention, they have also faced skepticism from Stefanie Sun’s loyal fanbase. Some fans argue that the AI clones lack the ability to replicate Sun’s emotions and 
+live performances accurately. They view the AI-generated singers as imitations that cannot capture the authenticity and unique qualities of Sun’s voice.
+
+## Sun’s Response
+
+Stefanie Sun responded to the AI phenomenon in a heartfelt online post. She acknowledged that her AI persona had gained more popularity than her actual singing career. Sun expressed her thoughts on 
+the transformative power of AI in various industries, including music. She also reflected on the importance of individuality and authenticity, suggesting that being true to oneself will remain 
+significant in a world where AI-generated content proliferates:
+
+My fans have officially switched sides and accepted that I am indeed ‘an unpopular singer’ while my AI persona is the current hot property. I mean really, how do you fight with someone who is putting 
+out new albums…
 
 [1m[[0m[35m/[0m[95mblue[0m[1m][0m
  [1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
@@ -18,11 +30,8 @@ The company provides multiple services for its models, including a web interface
 *[1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m   [1;35mFUNC[0m[1m([0mextract_segments[1m)[0m [1m[[0mgreen[1m][0mFUNC: [1m{[0m
   [32m"name"[0m: [32m"extract_segments"[0m,
   [32m"arguments"[0m: [1m{[0m
-    [32m"segment_list"[0m: [32m"7,9,11"[0m,
+    [32m"segment_list"[0m: [32m""[0m,
     [32m"request"[0m: [32m"extract_segments"[0m
   [1m}[0m
 [1m}[0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
-*[1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m[[0mwhite[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mred[1m][0mEntity.AGENT[1m[[0m[35m/[0m[95mred[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mred[1m][0mDONE  DeepSeek focuses on developing open 
-source LLMs. [33m...[0m The company has iterated multiple times on its core LLM and has built out several different variations. 
-
- The company provides multiple services for its models, including a web interface, mobile application and API access.[1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m[[0mwhite[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mred[1m][0mEntity.AGENT[1m[[0m[35m/[0m[95mred[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mred[1m][0mDONE DO-NOT-KNOW[1m[[0m[35m/[0m[95mred[0m[1m][0m

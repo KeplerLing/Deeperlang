@@ -1,6 +1,6 @@
  	Task	Responder	sender_entity	sender_name	recipient	block	tool_type	tool	content
- 	CriticAgent	Entity.USER	Entity.USER	CriticAgent		None			["Why is deepseek cheap?", "# Research Report: Why is DeepSeek Cheap?\n\n## Intr...ic technologies or business strategies that Deepseek employs to reduce costs?"]]
+ 	CriticAgent	Entity.USER	Entity.USER	CriticAgent		None			["\u7279\u5e94\u6027\u76ae\u708e\u662f\u4ec0\u4e48\uff1f", "## Research Report: ...u708e\u7684\u6cbb\u7597\u548c\u7ba1\u7406\u65b9\u6cd5\u6709\u54ea\u4e9b\uff1f"]]
  	CriticAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
  	CriticAgent	Entity.AGENT	Entity.USER			None			
-*	CriticAgent	Entity.LLM	Entity.LLM			None	FUNC	evaluate_report_quality_tool	FUNC: { "name": "evaluate_report_quality_tool", "arguments": { "original_query":...pseek employs to reduce costs?" ], "request": "evaluate_report_quality_tool" } }
+*	CriticAgent	Entity.LLM	Entity.LLM			None	FUNC	evaluate_report_quality_tool	FUNC: { "name": "evaluate_report_quality_tool", "arguments": { "original_query":...\u6cd5\u6709\u54ea\u4e9b\uff1f" ], "request": "evaluate_report_quality_tool" } }
 *	CriticAgent	Entity.AGENT	Entity.AGENT	CriticAgent		None			end
