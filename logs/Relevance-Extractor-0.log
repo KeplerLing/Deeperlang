@@ -1,0 +1,27 @@
+ [1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0mComparison
+[33m...[0m
+## People Also Ask:
+
+**[1;36m1[0m. What’s better, DeepSeek or ChatGPT?**
+DeepSeek offers a more cost-effective alternative to ChatGPT, especially for high-volume users. While both models perform well for tasks like coding, writing, and problem-solving, DeepSeek stands out 
+with its free access and significantly lower API costs. Additionally, DeepSeek’s open-source nature provides flexibility and privacy, allowing users to customize and self-host the model, which ChatGPT
+does not offer.
+**[1;36m2[0m. What is so special about DeepSeek?**
+DeepSeek’s key strengths lie in its affordability, open-source flexibility, and scalable performance. Unlike ChatGPT, which has costly APIs and usage limitations, DeepSeek offers free access to its 
+core functionality and lower pricing for larger applications. It also allows users to deploy the model on their infrastructure, ensuring full control over data and operations. These advantages make it
+a compelling choice for students, startups, and high-volume API users.
+**[1;36m3[0m. How is DeepSeek more efficient?**
+DeepSeek is more efficient due to its significantly lower cost per token, allowing businesses and developers to scale without high expenses. For example, generating the same amount of content with 
+DeepSeek costs a fraction of the price compared to ChatGPT. Furthermore, DeepSeek’s open-source model provides users with greater control and flexibility over their AI applications, reducing 
+dependency on third-party servers and improving overall efficiency.
+**[1;36m4[0m. Did De[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m   [1;35mFUNC[0m[1m([0mextract_segments[1m)[0m [1m[[0mgreen[1m][0mFUNC: [1m{[0m
+  [32m"name"[0m: [32m"extract_segments"[0m,
+  [32m"arguments"[0m: [1m{[0m
+    [32m"segment_list"[0m: [32m""[0m,
+    [32m"request"[0m: [32m"extract_segments"[0m
+  [1m}[0m
+[1m}[0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
+*[1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mwhite[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mred[1m][0mEntity.AGENT[1m[[0m[35m/[0m[95mred[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mred[1m][0mDONE DO-NOT-KNOW[1m[[0m[35m/[0m[95mred[0m[1m][0m

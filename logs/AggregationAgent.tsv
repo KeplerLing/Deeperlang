@@ -1,0 +1,5 @@
+ 	Task	Responder	sender_entity	sender_name	recipient	block	tool_type	tool	content
+ 	AggregationAgent	Entity.USER	Entity.USER	AggregationAgent		None			["Why is DeepSeek cheap?", ["What factors contribute to DeepSeek's cost-effectiv...ss model focuses on cost reduction through innovative technology integration."]]
+ 	AggregationAgent	Entity.USER	Entity.USER	Entity.USER		None			[CANNOT RESPOND]
+ 	AggregationAgent	Entity.AGENT	Entity.USER			None			
+*	AggregationAgent	Entity.LLM	Entity.LLM			None	FUNC	generate_report_tool	FUNC: { "name": "generate_report_tool", "arguments": { "original_query": "Why is...ugh innovative technology integration." ], "request": "generate_report_tool" } }
