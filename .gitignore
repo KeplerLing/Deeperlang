@@ -17,4 +17,4 @@ deeperlang-test/
 
 # Environment and secrets
 .env
-*.env
+*.env.env
