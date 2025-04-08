@@ -1,30 +1,85 @@
- [1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m# The Rise of AI-Generated Singers
+ [1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m# An Overview on the Advancements of Support 
+Vector Machine Models in Healthcare Applications: A Review
+[33m...[0m
+## References
 
-## A case of Stefanie Sun and implications for the music industry
-
-The emergence of artificial intelligence [1m([0mAI[1m)[0m technology has sparked a surge of interest in AI-generated singers and their impact on the music industry. This article examines the recent trend 
-surrounding Singaporean pop singer Stefanie Sun and the AI clones of her voice that have gained popularity on Chinese social media platforms. I explore the implications of AI-generated singers, 
-including copyright concerns, fan reactions, and the need for regulatory frameworks to address this evolving landscape.
-
-## Stefanie Sun’s Popularity and the AI Phenomenon
-
-Stefanie Sun, also known as Sun Yanzi, is a renowned pop singer with a substantial fan base in mainland China and Hong Kong. Despite not releasing new music for six years, her popularity has reached 
-new heights with the emergence of AI-generated accounts mimicking her voice and breathing sounds. These AI accounts, under the name AI-Sun Yanzi, have garnered significant attention and amassed large 
-numbers of listeners. They have even covered well-known songs from other artists, such as Jay Chou and Nan Quan Mama.
-
-While the AI clones have attracted attention, they have also faced skepticism from Stefanie Sun’s loyal fanbase. Some fans argue that the AI clones lack the ability to replicate Sun’s emotions and 
-live performances accurately. They view the AI-generated singers as imitations that cannot capture the authenticity and unique qualities of Sun’s voice.
-
-## Sun’s Response
-
-Stefanie Sun responded to the AI phenomenon in a heartfelt online post. She acknowledged that her AI persona had gained more popularity than her actual singing career. Sun expressed her thoughts on 
-the transformative power of AI in various industries, including music. She also reflected on the importance of individuality and authenticity, suggesting that being true to oneself will remain 
-significant in a world where AI-generated content proliferates:
-
-My fans have officially switched sides and accepted that I am indeed ‘an unpopular singer’ while my AI persona is the current hot property. I mean really, how do you fight with someone who is putting 
-out new albums…
-
-[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+A.; Puerto, J. A mathematical programming approach to SVM-based classification with label noise. Comput. Ind. Eng. **[1;36m2022[0m**, [1;36m172[0m, [1;36m108611[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m - Reza, M.; Hafsha, U.; Amin, R.; 
+Yasmin, R.; Ruhi, S. Improving SVM performance for type II diabetes prediction with an improved non-linear kernel: Insights from the PIMA dataset. Comput. Methods Programs Biomed. Update **[1;36m2023[0m**, [1;36m4[0m, 
+[1;36m100118[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m - Sisodia, D.; Sisodia, D.S. Prediction of Diabetes using Classification Algorithms. Procedia Comput. Sci. **[1;36m2018[0m**, [1;36m132[0m, [1;36m1578[0m–[1;36m1585[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Guyon, I.; Weston, J.; Barnhill, S.; Vapnik, V. Gene selection for cancer classification using support vector machines. Mach. Learn. **[1;36m2002[0m**, [1;36m46[0m, [1;36m389[0m–[1;36m422[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Ding, X.; Yang, F.; Jin, S.; Cao, J. An efficient alpha seeding method for optimized extreme learning machine-based feature selection algorithm. Comput. Biol. Med. **[1;36m2021[0m**, [1;36m134[0m, [1;36m104505[0m. [1m[[0mGoogle 
+Scholar[1m][0m [1m[[0mCrossRef[1m][0m [1m[[0mPubMed[1m][0m
+-
+Li, Z.; Qian, Y.; Li, Q. A Unified Framework and a Case Study for Hyperparameter Selection in Machine Learning via Bilevel Optimization. In Proceedings of the [1;36m2022[0m 5th International Conference on Data
+Science and Information Technology [1m([0mDSIT[1m)[0m, Shanghai, China, [1;36m22[0m–[1;36m24[0m July [1;36m2022[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Chang, C.C.; Lin, C.J. LIBSVM: A library for support vector machines. Acm Trans. Intell. Syst. Technol. [1m([0mTist[1m)[0m **[1;36m2011[0m**, [1;36m2[0m, [1;36m1[0m–[1;36m27[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Huong, A.; Tay, K.; Ngu, X. Five-class classification of cervical pap smear images: A study of CNN-error-correcting SVM models. Healthc. Inform. Res. **[1;36m2021[0m**, [1;36m27[0m, [1;36m298[0m–[1;36m306[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Ke, T.; Liao, Y.; Wu, M.; Ge, X.; Huang, X.; Zhang, C.; Li, J. Maximal margin hyper-sphere SVM for binary pattern classification. Eng. Appl. Artif. Intell. **[1;36m2023[0m**, [1;36m117[0m, [1;36m105615[0m. [1m[[0mGoogle Scholar[1m][0m 
+[1m[[0mCrossRef[1m][0m
+-
+Yan, Y.; Li, Q. An efficient augmented Lagrangian method for support vector machine. Optim. Methods Softw. **[1;36m2020[0m**, [1;36m35[0m, [1;36m855[0m–[1;36m883[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Groccia, M.C.; Guido, R.; Conforti, D. Multi-Classifier Approaches for Supporting Clinical Decision Making. Symmetry **[1;36m2020[0m**, [1;36m12[0m, [1;36m699[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Peng, X. A ν-twin support vector machine [1m([0mν-TSVM[1m)[0m classifier and its geometric algorithms. Inf. Sci. **[1;36m2010[0m**, [1;36m180[0m, [1;36m3863[0m–[1;36m3875[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Arun Kumar, M.; Gopal, M. Least squares twin support vector machines for pattern classification. Expert Syst. Appl. **[1;36m2009[0m**, [1;36m36[0m, [1;36m7535[0m–[1;36m7543[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Tomar, D.; Agarwal, S. A comparison on multi-class classification methods based on least squares twin support vector machine. Knowl.-Based Syst. **[1;36m2015[0m**, [1;36m81[0m, [1;36m131[0m–[1;36m147[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Wang, H.; Zhang, Q. Twin K-class support vector classification with pinball loss. Appl. Soft Comput. **[1;36m2021[0m**, [1;36m113[0m, [1;36m107929[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Zhou, K.; Zhang, Q.; Li, J. TSVMPath: Fast Regularization Parameter Tuning Algorithm for Twin Support Vector Machine. Neural Process. Lett. **[1;36m2022[0m**, [1;36m54[0m, [1;36m5457[0m–[1;36m5482[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Rezvani, S.; Wang, X.; Pourpanah, F. Intuitionistic Fuzzy Twin Support Vector Machines. IEEE Trans. Fuzzy Syst. **[1;36m2019[0m**, [1;36m27[0m, [1;36m2140[0m–[1;36m2151[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Ganaie, M.; Kumari, A.; Malik, A.; Tanveer, M. EEG signal classification using improved intuitionistic fuzzy twin support vector machines. Neural Comput. Appl. **[1;36m2022[0m**, [1;36m36[0m, [1;36m163[0m–[1;36m179[0m. [1m[[0mGoogle Scholar[1m][0m 
+[1m[[0mCrossRef[1m][0m
+-
+Shao, Y.H.; Lv, X.J.; Huang, L.W.; Bai, L. Twin SVM for conditional probability estimation in binary and multiclass classification. Pattern Recognit. **[1;36m2023[0m**, [1;36m136[0m, [1;36m109253[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Malik, A.; Ganaie, M.; Tanveer, M.; Suganthan, P.; Initiative, A.D.N.I. Alzheimer’s Disease Diagnosis via Intuitionistic Fuzzy Random Vector Functional Link Network. IEEE Trans. Comput. Soc. Syst. 
+**[1;36m2022[0m**. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Bai, L.; Chen, X.; Wang, Z.; Shao, Y.H. Safe intuitionistic fuzzy twin support vector machine for semi-supervised learning[1m[[0mFormula presented[1m][0m. Appl. Soft Comput. **[1;36m2022[0m**, [1;36m123[0m, [1;36m108906[0m. [1m[[0mGoogle 
+Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Richhariya, B.; Tanveer, M. Universum least squares twin parametric-margin support vector machine. In Proceedings of the [1;36m2020[0m International Joint Conference on Neural Networks [1m([0mIJCNN[1m)[0m, Glasgow, UK, 
+[1;36m19[0m–[1;36m24[0m July [1;36m2020[0m; pp. [1;36m1[0m–[1;36m8[0m. [1m[[0mGoogle Scholar[1m][0m
+-
+Moosaei, H.; Bazikar, F.; Hladík, M. Multi-task twin support vector machine with Universum data. Eng. Appl. Artif. Intell. **[1;36m2024[0m**, [1;36m132[0m, [1;36m107951[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Lyaqini, S.; Hadri, A.; Ellahyani, A.; Nachaoui, M. Primal dual algorithm for solving the nonsmooth Twin SVM. Eng. Appl. Artif. Intell. **[1;36m2024[0m**, [1;36m128[0m, [1;36m107567[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Lanckriet, G.; Ghaoui, L.; Bhattacharyya, C.; Jordan, M. Minimax probability machine. Adv. Neural Inf. Process. Syst. **[1;36m2001[0m**, [1;36m14[0m. [1m[[0mGoogle Scholar[1m][0m
+-
+Lanckriet, G.R.G.; El Ghaoui, L.; Bhattacharyya, C.; Jordan, M.I. A robust minimax approach to classification. J. Mach. Learn. Res. **[1;36m2003[0m**, [1;36m3[0m, [1;36m555[0m–[1;36m582[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Yang, L.; Wen, Y.; Zhang, M.; Wang, X. Twin minimax probability machine for pattern classification. Neural Netw. **[1;36m2020[0m**, [1;36m131[0m, [1;36m201[0m–[1;36m214[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m [1m[[0mPubMed[1m][0m
+-
+Ma, J.; Yu, G. Regularized twin minimax probability machine for pattern classification and regression. Eng. Appl. Artif. Intell. **[1;36m2022[0m**, [1;36m107[0m, [1;36m104550[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Jain, S.; Rastogi, R. Parametric non-parallel support vector machines for pattern classification. Mach. Learn. **[1;36m2022[0m**, [1;36m113[0m, [1;36m1567[0m–[1;36m1594[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Huang, X.; Shi, L.; Suykens, J. Support vector machine classifier with pinball loss. IEEE Trans. Pattern Anal. Mach. Intell. **[1;36m2014[0m**, [1;36m36[0m, [1;36m984[0m–[1;36m997[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m [1m[[0mPubMed[1m][0m
+-
+Jian, C.; Gao, J.; Ao, Y. A New Sampling Method for Classifying Imbalanced Data Based on Support Vector Machine Ensemble. Neurocomputing **[1;36m2016[0m**, [1;36m193[0m, [1;36m115[0m–[1;36m122[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Sain, H.; Purnami, S.W. Combine Sampling Support Vector Machine for Imbalanced Data Classification. Procedia Comput. Sci. **[1;36m2015[0m**, [1;36m72[0m, [1;36m59[0m–[1;36m66[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Ebenuwa, S.; Sharif, M.; Alazab, M.; Al-Nemrat, A. Variance Ranking Attributes Selection Techniques for Binary Classification Problem in Imbalance Data. IEEE Access **[1;36m2019[0m**, [1;36m7[0m, [1;36m24649[0m–[1;36m24666[0m. [1m[[0mGoogle 
+Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Núñez, H.; Gonzalez-Abril, L.; Angulo, C. Improving SVM Classification on Imbalanced Datasets by Introducing a New Bias. J. Classif. **[1;36m2017[0m**, [1;36m34[0m, [1;36m427[0m–[1;36m443[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Dubey, R.; Zhou, J.; Wang, Y.; Thompson, P.M.; Ye, J. Analysis of sampling techniques for imbalanced data: An [33mn[0m=[1;36m648[0m ADNI study. NeuroImage **[1;36m2014[0m**, [1;36m87[0m, [1;36m220[0m–[1;36m241[0m. [1m[[0mGoogle Scholar[1m][0m [1m[[0mCrossRef[1m][0m
+-
+Zhang, J.J.; Zhong, P. Learning Biased SVM with Weighted Within-Class Scatter for Imbalanced Classification. Neural Process. Lett. **[1;36m2020[0m**, [1;36m51[0m, [1;36m797[0m–[1;36m817[0m.[1m[[0m[35m/[0m[95mblue[0m[1m][0m
  [1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
  [1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
 *[1m([0mRelevance-Extractor-[1;36m2[0m[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m   [1;35mFUNC[0m[1m([0mextract_segments[1m)[0m [1m[[0mgreen[1m][0mFUNC: [1m{[0m

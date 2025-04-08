@@ -1,20 +1,11 @@
- [1m([0mRelevance-Extractor-[1;36m1[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m1[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m## DeepSeek AI history
+ [1m([0mRelevance-Extractor-[1;36m1[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m1[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m# An Overview on the Advancements of Support 
+Vector Machine Models in Healthcare Applications: A Review
 [33m...[0m
-## The reception of the GenAI chat
+## [1;36m4[0m. Classification and Prediction Problems in Real-World Case Studies
 
-Within just a few days of DeepSeek’s launch, users who tested it pointed out several visible benefits:
-
-People noticed lower costs of model fine-tuning compared to GPT. The API pricing for a million input tokens is $[1;36m0.14[0m for DeepSeek and $[1;36m2.50[0m for ChatGPT-4o.
--
-Advanced capabilities [1m([0mMulti-Head Latent Attention[1m)[0m for generating content, coding, and solving problems.
--
-Open-source nature allows companies to fine-tune models, which is a great asset for many industries that need the processing of complex technical tasks.
--
-Users also noticed some problems with privacy and censorship that were widely commented on across the web.
-
-However, DeepSeek has done something many expected from American tech giants—made their AI model freely available for worldwide use, especially taking into consideration the announcement of publishing
-[1;36m5[0m code repositories for full transparency. While OpenAI allows only some of the models to be fine-tuned through their API, DeepSeek-R1 is completely open-source, giving users full access to adapt it 
-as needed.
+#### [1;36m4.1[0m. Diabetes
+[33m...[0m
+#### [1;36m4.7[0m. Brain Health
 
 [1m[[0m[35m/[0m[95mblue[0m[1m][0m
  [1m([0mRelevance-Extractor-[1;36m1[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m

@@ -1,97 +1,23 @@
- [1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m# Computer Science > Computers and Society
-
-[1m[[0mSubmitted on [1;36m20[0m Mar [1;36m2024[0m[1m][0m
-
-# Title:Large language models can help boost food production, but be mindful of their risks
-
-View PDF HTML [1m([0mexperimental[1m)[0mAbstract:Coverage of ChatGPT-style large language models [1m([0mLLMs[1m)[0m in the media has focused on their eye-catching achievements, including solving advanced mathematical 
-problems and reaching expert proficiency in medical examinations. But the gradual adoption of LLMs in agriculture, an industry which touches every human life, has received much less public scrutiny. 
-In this short perspective, we examine risks and opportunities related to more widespread adoption of language models in food production systems. While LLMs can potentially enhance agricultural 
-efficiency, drive innovation, and inform better policies, challenges like agricultural misinformation, collection of vast amounts of farmer data, and threats to agricultural jobs are important 
-concerns. The rapid evolution of the LLM landscape underscores the need for agricultural policymakers to think carefully about frameworks and guidelines that ensure the responsible use of LLMs in food
-production before these technologies become so ingrained that policy intervention becomes challenging.
-
-## Submission history
-
-From: Djavan De Clercq [1m[[0mview email[1m][0m**[1m[[0mv1[1m][0m**Wed, [1;36m20[0m Mar [1;36m2024[0m [1;92m17:19:25[0m UTC [1m([0m[1;36m918[0m KB[1m)[0m
-Full-text links:
-
-## Access Paper:
-
-### References & Citations
-
-a
-Loading[33m...[0m
-
-# Bibliographic and Citation Tools
-
-Bibliographic Explorer
-
-*[1m([0mWhat is the Explorer?[1m)[0m*
-Connected Papers
-
-*[1m([0mWhat is Connected Papers?[1m)[0m*
-Litmaps
-
-*[1m([0mWhat is Litmaps?[1m)[0m*
-scite Smart Citations
-
-*[1m([0mWhat are Smart Citations?[1m)[0m*# Code, Data and Media Associated with this Article
-alphaXiv
-
-*[1m([0mWhat is alphaXiv?[1m)[0m*
-CatalyzeX Code Finder for Papers
-
-*[1m([0mWhat is CatalyzeX?[1m)[0m*
-DagsHub
-
-*[1m([0mWhat is DagsHub?[1m)[0m*
-Gotit.pub
-
-*[1m([0mWhat is GotitPub?[1m)[0m*
-Hugging Face
-
-*[1m([0mWhat is Huggingface?[1m)[0m*
-Papers with Code
-
-*[1m([0mWhat is Papers with Code?[1m)[0m*
-ScienceCast
-
-*[1m([0mWhat is ScienceCast?[1m)[0m*# Demos
-Replicate
-
-*[1m([0mWhat is Replicate?[1m)[0m*
-Hugging Face Spaces
-
-*[1m([0mWhat is Spaces?[1m)[0m*
-TXYZ.AI
-
-*[1m([0mWhat is TXYZ.AI?[1m)[0m*# Recommenders and Search Tools
-Influence Flower
-
-*[1m([0mWhat are Influence Flowers?[1m)[0m*
-CORE Recommender
-
-*[1m([0mWhat is CORE?[1m)[0m*# arXivLabs: experimental projects with community collaborators
-arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.
-
-Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only
-works with partners that adhere to them.
-
-Have an idea for a project that will add value for arXiv's community? **Learn more about arXivLabs**.
-
-[1m[[0m[35m/[0m[95mblue[0m[1m][0m
+ [1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m<[0m[39m!DOCTYPE html>[0m
+[39m<html [0m[33mlang[0m[39m=[0m[32m"en"[0m[39m>[0m
+[39m<head>[0m
+[39m<meta [0m[33mcharset[0m[39m=[0m[32m"utf[0m[32m-8"[0m[39m>[0m
+[39m<meta http-[0m[33mequiv[0m[39m=[0m[32m"X[0m[32m-UA-Compatible"[0m[39m [0m[33mcontent[0m[39m=[0m[32m"IE[0m[32m=edge"[0m[39m>[0m
+[39m<meta [0m[33mname[0m[39m=[0m[32m"viewport"[0m[39m [0m[33mcontent[0m[39m=[0m[32m"width[0m[32m=device-width, initial-[0m[32mscale[0m[32m=[0m[32m1"[0m[39m>[0m
+[39m<title>Utilization of Yoghurt and Sucralose to Produce Low-calorie Cakes<[0m[35m/[0m[95mtitle[0m[39m>[0m
+[39m<[0m[35m/[0m[95mhead[0m[39m>[0m
+[39m<body [0m[33mstyle[0m[39m=[0m[32m"margin[0m[32m:0px; padding:0px;"[0m[39m">[0m
+[39m<iframe [0m[33mclass[0m[39m=[0m[32m'pdfiframe'[0m[39m [0m[33msrc[0m[39m=[0m[4;94mhttps[0m[4;94m://www.longdom.org/open-access-pdfs/utilization-of-yoghurt-and-sucralose-to-produce-lowcalorie-cakes-2155-9600-1000447.pdf[0m[39m [0m[33mframeborder[0m[39m=[0m[32m'0'[0m[39m [0m[33mwidth[0m[39m=[0m[32m'100%'[0m[39m [0m[33mheight[0m[39m=[0m[32m'100%'[0m
+[33mstyle[0m[39m=[0m[32m'position:absolute'[0m[39m><[0m[35m/[0m[95miframe[0m[39m><[0m[35m/[0m[95mbody[0m[39m>[0m
+[39m<[0m[35m/[0m[95mhtml[0m[1m>[0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
  [1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mred[1m][0m Entity.USER [1m[[0m[35m/[0m[95mred[0m[1m][0m [1m[[0mblue[1m][0mEntity.USER[1m[[0m[35m/[0m[95mblue[0m[1m][0m[1m([0mEntity.USER[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mblue[1m][0m[1m[[0mCANNOT RESPOND[1m][0m[1m[[0m[35m/[0m[95mblue[0m[1m][0m
  [1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mred[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mred[0m[1m][0m
 *[1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mwhite[1m][0m Entity.LLM [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mgreen[1m][0mEntity.LLM[1m[[0m[35m/[0m[95mgreen[0m[1m][0m[1m([0m          [1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m   [1;35mFUNC[0m[1m([0mextract_segments[1m)[0m [1m[[0mgreen[1m][0mFUNC: [1m{[0m
   [32m"name"[0m: [32m"extract_segments"[0m,
   [32m"arguments"[0m: [1m{[0m
-    [32m"segment_list"[0m: [32m"6-8"[0m,
+    [32m"segment_list"[0m: [32m"7"[0m,
     [32m"request"[0m: [32m"extract_segments"[0m
   [1m}[0m
 [1m}[0m[1m[[0m[35m/[0m[95mgreen[0m[1m][0m
-*[1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mwhite[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mred[1m][0mEntity.AGENT[1m[[0m[35m/[0m[95mred[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mred[1m][0mDONE  In this short perspective, we examine 
-risks and opportunities related to more widespread adoption of language models in food production systems. [33m...[0m While LLMs can potentially enhance agricultural efficiency, drive innovation, and inform 
-better policies, challenges like agricultural misinformation, collection of vast amounts of farmer data, and threats to agricultural jobs are important concerns. [33m...[0m The rapid evolution of the LLM 
-landscape underscores the need for agricultural policymakers to think carefully about frameworks and guidelines that ensure the responsible use of LLMs in food production before these technologies 
-become so ingrained that policy intervention becomes challenging.[1m[[0m[35m/[0m[95mred[0m[1m][0m
+*[1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m[[0mwhite[1m][0m Entity.AGENT [1m[[0m[35m/[0m[95mwhite[0m[1m][0m [1m[[0mred[1m][0mEntity.AGENT[1m[[0m[35m/[0m[95mred[0m[1m][0m[1m([0mRelevance-Extractor-[1;36m0[0m[1m)[0m [1m([0m=>          [1m)[0m [1m([0mX           [1m)[0m       [1m([0m          [1m)[0m [1m[[0mred[1m][0mDONE  [1m<[0m[1;95mtitle[0m[39m>Utilization of Yoghurt and [0m
+[39mSucralose to Produce Low-calorie Cakes<[0m[35m/[0m[95mtitle[0m[1m>[0m [1m[[0m[35m/[0m[95mred[0m[1m][0m
