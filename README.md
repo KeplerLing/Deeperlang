@@ -1,6 +1,5 @@
-Here’s the refined English version of your README.md with improved hierarchy and structure:
 
-```markdown
+
 # DeeperLang
 
 [![Built with uv](https://img.shields.io/badge/uv-%E2%9A%A1%EF%B8%8F-FFD242?logo=python&logoColor=white)](https://docs.astral.sh/uv/)
