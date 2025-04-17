@@ -2,12 +2,6 @@
 
 # DeeperLang
 
-[![Built with uv](https://img.shields.io/badge/uv-%E2%9A%A1%EF%B8%8F-FFD242?logo=python&logoColor=white)](https://docs.astral.sh/uv/)
-
-A next-generation Python project managed with [uv](https://docs.astral.sh/uv) for dependency and virtual environment management. Reproduce the development environment instantly by syncing locked dependencies from the `uv.lock` file—no manual installation from requirements files needed.
-
----
-
 ## 🛠️ Environment Setup
 
 ### Clone Repository
